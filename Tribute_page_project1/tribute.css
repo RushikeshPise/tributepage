@@ -1,0 +1,57 @@
+{
+	padding: 20px;
+	margin: 20px;
+}
+body{
+	background-color:lightgrey;
+	text-align: center;
+	margin-top: 32px;
+	margin-bottom: 0px;
+}
+.name{
+	margin-bottom: 200px;
+}
+.date{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.thumbnail{
+	margin: 10px 50px 0px 50px;
+	padding: 20px;
+}
+img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+.img-txt{
+	background-color: darkgrey;
+	margin: 50px;
+	padding: 30px;
+}
+.timeline-head{
+	text-align: left;
+	margin-left: 50px;
+}
+.time-rows{
+	text-align: left;
+	size: 10px;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	color:white;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.more-info{
+	text-align: center;
+}
+cite{
+	size: 20px;
+}
